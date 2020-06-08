@@ -1,0 +1,2 @@
+class MoviePair < ApplicationRecord
+end
